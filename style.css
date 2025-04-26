@@ -1,0 +1,121 @@
+body {
+    background-color: #3E3E5F;
+    padding: 3vw;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    margin-bottom: 5vw;
+    margin-top: 2vw;
+    color: white;
+    font-size: 2vw;
+    width: 93.8vw;
+    font-weight: 700;
+}
+
+a, #aka {
+    color: #8F8F8F;
+}
+
+#TG, #aka {margin-right: 2%; margin-left: 2%;}
+
+
+.links {
+   float: right;
+   width: 50%;
+}
+
+#VK, #TG, #GH {text-decoration: none;}
+
+.name {
+    width: 50%;
+}
+
+a {
+    float: right;  
+}
+
+
+.about {
+    background-color: white;
+    padding: 2vw;
+    border-radius: 1vw;
+    width: 50vw;
+    height: 22vw;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.av {
+    height: 26vw;
+    border-radius: 1vw;
+    float: right;
+}
+
+#abh {
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700;
+    font-size: 2vw;
+}
+
+#abp {
+    margin: 1vw;
+    text-align: justify;
+    font-size: 1.5vw;
+}
+
+
+.works {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5vw;
+}
+
+#worh {
+    width: 95vw;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700;
+    font-size: 2vw;
+    color: white;
+}
+
+.work {
+    background-color: white;
+    border-radius: 1vw;
+    width: auto;
+    margin-top: 2vw;
+    height: 31vw;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 2vw;
+}
+
+img {
+    height: 25vw;
+    border-radius: 1vw;
+}
+
+.worn {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 700;
+    font-size: 2vw;
+}
+
+.lang {
+    color: #8F8F8F;
+    font-size: 1.5vw;
+    margin-left: 1vw;
+}
+
+.git {
+    color: #8F8F8F;
+    font-size: 1.5vw;
+    margin-right: 1vw;
+    float: right;
+}
